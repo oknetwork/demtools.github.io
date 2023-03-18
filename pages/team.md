@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy
-permalink: /privacy-policy/
+title: Team
+permalink: /team/
 comments: false
 ---
 
