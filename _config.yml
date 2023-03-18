@@ -28,7 +28,7 @@ authors:
     name: Rod 
     display_name: Rod 
     avatar: 'assets/images/sal.png'
-    email: @gmail.com
+    email:
     web: https://www.dementia-tools.com
     twitter: https://twitter.com/dementia-tools
     description: "Impacting the lives of those suffering with dementia and those caring for folks with dementia."
@@ -36,7 +36,7 @@ authors:
     name: Marie
     display_name: Marie
     avatar: 'assets/images/john.png'
-    email: @gmail.com
+    email:
     web: https://www.dementia-tools.com
     twitter: https://twitter.com/dementia-tools
     description: "Impacting the lives of those suffering with dementia and those caring for folks with dementia"
