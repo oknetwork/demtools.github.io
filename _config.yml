@@ -1,13 +1,13 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Dementia-Tools.com"
+email: 
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
-permalink: "/:title/"
+baseurl: "demtools.github.io"
+permalink: "dementia-tools.com"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
-disqus: 'demowebsite'
+disqus: 
 locale: en_us
 lang: en_us
 feed_items: 10
