@@ -1,0 +1,56 @@
+title: "Affiliates"
+email: wowthemesnet@gmail.com
+timezone: UTC
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  rod:
+    name: Rod 
+    display_name: Rod 
+    avatar: 'assets/images/sal.png'
+    email: @gmail.com
+    web: https://www.dementia-tools.com
+    twitter: https://twitter.com/dementia-tools
+    description: "Impacting the lives of those suffering with dementia and those caring for folks with dementia."
+  marie:
+    name: Marie
+    display_name: Marie
+    avatar: 'assets/images/john.png'
+    email: @gmail.com
+    web: https://www.dementia-tools.com
+    twitter: https://twitter.com/dementia-tools
+    description: "Impacting the lives of those suffering with dementia and those caring for folks with dementia"
+
+# Social
+social:
+  instagram: https://www.instagram.com/
+  facebook: https://www.facebook.com/
+  twitter: https://twitter.com/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
