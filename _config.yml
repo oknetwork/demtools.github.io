@@ -1,7 +1,7 @@
 title: "Dementia-Tools.com"
 email: 
 timezone: UTC
-baseurl: "demtools.github.io"
+baseurl: ""
 permalink: "dementia-tools.com"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
